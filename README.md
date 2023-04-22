@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **react, python**
+- 💬 Ask me about **nodejs, python**
 
 - 📫 How to reach me **yvesderricks@gmail.com**
 
