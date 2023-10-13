@@ -1,8 +1,8 @@
 <h1 align="left">Hii, I'm Derick DUKUNDANE</h1>
 
-- 💻 Software Engineer breaking bigger problems into smaller solutions
-- 🔭 I’m currently working on **a portfolio project.**
-- 🌱 I’m currently learning **AI/ML**
+- 💻 I'm a **software engineer**
+- 🔭 I'm currently working on **a portfolio project.**
+- 🌱 I'm currently learning **AI/ML**
 - 💬 Ask me about **nodejs, react, python**
 - 📫 How to reach me **yvesderricks@gmail.com**
 
