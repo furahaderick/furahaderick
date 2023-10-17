@@ -1,4 +1,4 @@
-<h1 align="left">Hii, I'm Derick DUKUNDANE</h1>
+<h1 align="left">Hii, I'm Derick (Yves) DUKUNDANE</h1>
 
 - 💻 I'm a **software engineer**
 - 🔭 I'm currently working on **a portfolio project.**
