@@ -2,7 +2,7 @@
 
 - 💻 I'm a **software engineer**
 - 🔭 I'm currently working on **a portfolio project.**
-- 🌱 I'm currently learning **AI/ML**
+- 🌱 I'm currently learning **Java**
 - 💬 Ask me about **nodejs, react, python**
 - 📫 How to reach me **yvesderricks@gmail.com**
 
