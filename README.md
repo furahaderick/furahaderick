@@ -1,8 +1,8 @@
 <h1 align="left">Hii, I'm Derick (Yves) DUKUNDANE</h1>
 
-- 💻 **software engineer**
-- 🔭 currently working on **a notes application project.**
-- 🌱 currently learning **Java**
+- 💻 I'm a **software engineer**
+- 🔭 Currently working on **a notes application project.**
+- 🌱 Currently learning **Java**
 - 💬 Ask me about **nodejs, react, python**
 - 📫 How to reach me: **yvesderricks@gmail.com**
 
