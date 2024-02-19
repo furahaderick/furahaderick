@@ -4,7 +4,7 @@
 
 - 💻 I'm a **software engineer**
 - 🧠 I have a keen interest in **web technologies**, **computer science**, and **algorithms**
-- 🔭 Currently working on **a notes application project.**
+- 🔭 Currently working on **a notes application project**
 - 🌱 Currently learning **Java**
 - 💬 Ask me about **nodejs, react, python**
 - 📫 How to reach me: **yvesderricks@gmail.com**
