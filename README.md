@@ -1,2 +1,2 @@
 ![](./banner/banner.png)
-## Learn . Adapt . Implement . Thrive
+Learn . Adapt . Implement . Thrive
