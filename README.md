@@ -1,4 +1,4 @@
-![](./banner/banner.png)
+![](./_hash_.png)
 <p align="center">
-Learn . Adapt . Implement . Thrive !!
+Learn, Adapt, Implement and Thrive !!
 </p>
